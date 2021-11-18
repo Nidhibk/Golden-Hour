@@ -1,0 +1,4 @@
+
+			 		female 	Select reason for admission
+			 		male 	heart related
+	abc	4nm18cs101@nmamit.in	 7411112032		male 	fever
